@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Placeholder image of Ashley](https://via.placeholder.com/320x480)
